@@ -18,8 +18,9 @@ const sizes = {
 const fontSizes = {
     'sm': '12px',
     'default': '16px',
-    'md': '24px',
-    'lg': '32px',
+    'md': '20px',
+    'lg': '24px',
+    'xl': '32px'
 }
 
 const borderRadius = {

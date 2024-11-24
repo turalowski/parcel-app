@@ -9,6 +9,12 @@ export default function RootLayout() {
           headerShown: false,
         }}
       />
+      <Stack.Screen
+        name="parcel-details/[_id]/index"
+        options={{
+          headerShown: false,
+        }}
+      />
     </Stack>
   );
 }
