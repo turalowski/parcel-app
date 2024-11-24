@@ -10,7 +10,7 @@ const opacity = {
 }
 
 const sizes = {
-    'avatar': '45px',
+    'avatar': '40px',
     'icon-lg': '200px',
     'icon-sm': '24px',
 }
